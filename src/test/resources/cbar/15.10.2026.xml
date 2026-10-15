@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValCurs Date="15.10.2026" Name="AZN məzənnələri" Description="Azərbaycan Respublikası Mərkəzi Bankının rəsmi məzənnələri">
+    <ValType Type="Bank metalları">
+        <Valute Code="XAU">
+            <Nominal>1 t.u.</Nominal>
+            <Name>Qızıl</Name>
+            <Value>4325.1150</Value>
+        </Valute>
+        <Valute Code="XAG">
+            <Nominal>1 t.u.</Nominal>
+            <Name>Gümüş</Name>
+            <Value>52.3410</Value>
+        </Valute>
+    </ValType>
+    <ValType Type="Xarici valyutalar">
+        <Valute Code="USD">
+            <Nominal>1</Nominal>
+            <Name>1 ABŞ dolları</Name>
+            <Value>1.7</Value>
+        </Valute>
+        <Valute Code="EUR">
+            <Nominal>1</Nominal>
+            <Name>1 Avro</Name>
+            <Value>1.9785</Value>
+        </Valute>
+        <Valute Code="JPY">
+            <Nominal>100</Nominal>
+            <Name>100 Yaponiya yeni</Name>
+            <Value>1.1240</Value>
+        </Valute>
+        <Valute Code="TRY">
+            <Nominal>1</Nominal>
+            <Name>1 Türkiyə lirəsi</Name>
+            <Value>0.0412</Value>
+        </Valute>
+    </ValType>
+</ValCurs>
